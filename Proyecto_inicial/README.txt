@@ -1,1 +1,0 @@
-En esta carpeta subo el codigo del primer proyecto
